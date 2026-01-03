@@ -7,7 +7,7 @@ A console-based number guessing game with 5 difficulty modes.
 - **Normal**: 7 chances
 - **Hard**: 3 chances
 - **Brutal**: 1 chance only (one mistake and you lose)
-- **Idiot**: Instant win (for testing... or cowards)
+- **Idiot**: Just a mode for idiots
 
 ## Features
 - Smart graduated hints (tells you how close you are)
